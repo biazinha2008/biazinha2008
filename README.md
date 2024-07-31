@@ -1,5 +1,6 @@
-.   BEM VINDOS A0 MEU PERFIL
-- 👋 0lâ,eu sou Beatriz
+ ⚓ BEM VINDOS A0 MEU PERFIL
+ 🩹 estou estudando no alura
+ - 👋 0lâ,eu sou Beatriz
 - 👀 estou interessado em: marketing digital
 - 🌱 atualmente estou cursando o ensino medio
 - 💞️ estou procurando colaborar em projetos inovadores
