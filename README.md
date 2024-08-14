@@ -1,5 +1,5 @@
  ⚓ BEM VINDOS A0 MEU PERFIL
- 🩹 estou estudando no alura
+ 🩹 estou estudando no alura,estou me desenvolvendo na linguagem JavaScript
  - 👋 0lâ,eu sou Beatriz
 - 👀 estou interessado em: marketing digital
 - 🌱 atualmente estou cursando o ensino medio
